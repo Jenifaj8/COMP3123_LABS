@@ -1,0 +1,26 @@
+{
+    "name": "Week04_Express",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "tests": "echo 'Error mo test specified' "
+},
+"keywords": [
+    "express",
+    "GET params vs query",
+    "node vs nodemon",
+    "static files"
+],
+"author": "Jenifa Joseph",
+"license": "ISC",
+"description": "Running a web server using Express",
+"dependencies": {
+    "express": "^5.2.1"
+},
+"devDependencies": {
+    "nodemon": "^3.1.14"
+}
+
+}
